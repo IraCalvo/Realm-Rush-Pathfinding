@@ -10,3 +10,4 @@ What this project includes:
 - Node based graph
 - Build time for towers
 - Currency/Resource system
+- Difficulty Scaling
