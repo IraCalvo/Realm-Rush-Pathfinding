@@ -1,4 +1,4 @@
-![2024-01-03 15-34-21 - Trim (1)](https://github.com/IraCalvo/Realm-Rush-Pathfinding/assets/115129139/35dbd607-4cce-4cc5-a8e0-23394c244052)
+![ezgif-3-87ab823b4d](https://github.com/IraCalvo/Realm-Rush-Pathfinding/assets/115129139/5b4c846f-bdad-4f3b-b81f-903648b321fa)
 
 Within this version of Realm Rush is there is pathfinding within this game that the enemies follow and that there is no pre-determined path that the 
 enemies must follow. The algorithm that the enemies use for pathfinding is Breadth's First Search. With this it allows the Player to have a more
