@@ -1,4 +1,4 @@
-![08f4b665-b9ec-43c3-a656-6fc23126b6f7](https://github.com/IraCalvo/Realm-Rush-Pathfinding/assets/115129139/999fec9c-0a82-4048-ad1c-93b13995f12e)
+![2024-01-04 04-36-46 - Trim](https://github.com/IraCalvo/Realm-Rush-Pathfinding/assets/115129139/f286b810-dc9c-4ae4-93b7-3423a3e20acd)
 
 
 Within this version of Realm Rush is there is pathfinding within this game that the enemies follow and that there is no pre-determined path that the 
